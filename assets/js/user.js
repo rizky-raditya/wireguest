@@ -1,0 +1,1 @@
+document.getElementById('info').innerHTML='2 user aktif';
